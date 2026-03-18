@@ -66,9 +66,9 @@ Because standard regression metrics (like RMSE or MAE) struggle with the relativ
 * **Distribution Calibration:** Final predictions are passed through an Isotonic Regression calibrator to ensure the output price distribution perfectly matches the historical training data distribution.
 
 ### Results
-* **Local Validation (SMAPE):** [47.9%]
-* **Public Leaderboard (SMAPE):** [47.48%]
-* **Final Ranking:** [Top 0.6%  510/82803 teams]
+* **Local Validation (SMAPE):** 47.9%
+* **Public Leaderboard (SMAPE):** 47.48%
+* **Final Ranking:** Top 0.6%  510/82803 teams
   
 ## Contributing
 
