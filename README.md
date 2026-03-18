@@ -68,7 +68,7 @@ Because standard regression metrics (like RMSE or MAE) struggle with the relativ
 ### Results
 * **Local Validation (SMAPE):** 47.9%
 * **Public Leaderboard (SMAPE):** 47.48%
-* **Final Ranking:** Top 0.6%  510/82803 teams
+* **Final Ranking:** Top 0.6%,  510/82803 teams
   
 ## Contributing
 
