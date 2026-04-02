@@ -14,7 +14,7 @@ The solution effectively processes a dataset of 150,000 products by fusing high-
 
 ---
 
-## 🧠 System Architecture
+##  System Architecture
 
 The pipeline is designed to handle massive multi-modal datasets efficiently, utilizing custom multi-GPU processing and out-of-core memory management.
 
