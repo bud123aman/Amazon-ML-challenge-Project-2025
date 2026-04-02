@@ -6,7 +6,7 @@
 [![LightGBM](https://img.shields.io/badge/LightGBM-4.0+-green)](https://lightgbm.readthedocs.io/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-## 📌 Project Overview
+##  Project Overview
 
 This repository contains a high-performance **Multimodal Late-Fusion Stacking Ensemble** developed for the **Amazon ML Challenge 2025**. The objective is to predict the optimal price of e-commerce products using a combination of textual catalog metadata and raw product images, strictly adhering to an 8-Billion parameter limit and optimizing for the **Symmetric Mean Absolute Percentage Error (SMAPE)** metric.
 
