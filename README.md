@@ -1,4 +1,4 @@
-# 🛒 Amazon ML Challenge 2025: Smart Product Pricing
+# 🛒 Amazon ML Challenge 2025: Multimodal price prediction system
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/release/python-3110/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white)](https://pytorch.org/)
